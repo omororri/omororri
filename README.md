@@ -1,7 +1,5 @@
-humint expert, osint researcher for hire.
+humint expert, osint researcher. i will find you.
 
-ffxiv: dark knight / sage / reaper<br>
-wow: blood / outlaw / mistweaver / demonology<br>
 dnd: phantom rogue / necro cleric / dm
 
 <!---
