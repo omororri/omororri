@@ -1,6 +1,6 @@
 humint expert, osint researcher for hire.
 
-ffxiv: drk/sge/rpr/dnc/rdm<br>
+ffxiv: dark knight / sage / reaper<br>
 wow: blood / outlaw / mistweaver / demonology<br>
 dnd: phantom rogue / necro cleric / dm
 
