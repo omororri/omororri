@@ -1,8 +1,6 @@
-#### omororri
-
 humint expert, osint researcher for hire.
 
-ffxiv: drk/sge/rpr/dnc/rdm
+ffxiv: drk/sge/rpr/dnc/rdm<br>
 wow: blood/outlaw/mistweaver/demonology
 
 <!---
