@@ -1,4 +1,9 @@
-readme.md
+#### omororri
+
+humint expert, osint researcher for hire.
+
+ffxiv: drk/sge/rpr/dnc/rdm
+wow: blood/outlaw/mistweaver/demonology
 
 <!---
 omororri/omororri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
