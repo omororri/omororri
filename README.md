@@ -1,6 +1,6 @@
 humint expert, osint researcher. i will find you.
 
-dnd: phantom rogue / necro cleric / dm
+phantom rogue / necro cleric / dm
 
 <!---
 omororri/omororri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
