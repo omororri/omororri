@@ -2,7 +2,7 @@
 {
     "name": "omororri",
     "gridsquare": "dn35wu",
-    "list1": ["item1", "item2", "item3"],
+    "nuisance": ["humint expert", "osint compiler", "specialized non-us"],
     "headinglist": [
         "headingitem1",
         "headingitem2",
