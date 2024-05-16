@@ -1,11 +1,7 @@
 ```json
 {
-    "Name": "Aidan Holland",
-    "Pronouns": ["He", "Him", "His"],
-    "Ask Me About": [
-        "Cyber Security",
-        "Open Source Development"
-    ],
+    "name": "omororri",
+    "gridsquare": "dn35wu",
     "Languages": {
         "Python": "Advanced",
         "JavaScript": "Advanced",
@@ -95,7 +91,6 @@
 }
 
 ```
-
 
 humint expert, osint researcher. i will find you.
 
