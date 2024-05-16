@@ -4,10 +4,13 @@
     "gridsquare": "dn35wu",
     "nuisance": ["humint expert", "osint compiler", "specialized non-us"],
     "formatting": ["for desktop use only: get a laptop and tether your cell phone: poor"],
-    "headinglist": [
-        "headingitem1",
-        "headingitem2",
-        "headingitem3"
+    "repositories": [
+        "bookmark",
+        "config",
+        "legal",
+        "python",
+        "radio",
+        "textfile"
     ],
     "languages": {
         "reading": [
