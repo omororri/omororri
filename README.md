@@ -7,8 +7,7 @@
         "nuisance": [
             "humint expert",
             "osint compiler",
-            "specialized non-us",
-            "never in writing, always in cash"
+            "specialized non-us"
         ],
         "formatting": "for desktop use only: get a laptop and tether your cell phone: poor",
         "repositories": [
