@@ -2,96 +2,42 @@
 {
     "name": "omororri",
     "gridsquare": "dn35wu",
-    "Languages": {
-        "Python": "Advanced",
-        "JavaScript": "Advanced",
-        "TypeScript": "Intermediate",
-        "Java": "Intermediate",
-        "Go": "Intermediate",
-        "Bash": "Intermediate",
-        "C++": "Beginner",
-        "C": "Beginner",
-        "Racket": "Beginner"
+    "list1": ["item1", "item2", "item3"],
+    "Ask Me About": [
+        "Cyber Security",
+        "Open Source Development"
+    ],
+    "section2 classification": {
+        "item1": "status1",
+        "item2": "status2",
+        "item3": "status3",
+        "item4": "status4",
+        "item5": "status5",
+        "item6": "status6"
     },
-    "Technologies": {
-        "Backend": [
-          "Fast API",
-          "Flask", 
-          "Django",
-          "Sanic",
-          "SQLAlchemy",
-          "Express",
-          "Protobufs",
-          "Pyramid",
-          "Jinja"
+    "languages": {
+        "reading comprehension": [
+          "arabic",
+          "english",
+          "french",
+          "russian",
+          "spanish"
         ],
-        "Frontend": [
-          "Node.js",
-          "React.js",
-          "Redux",
-          "Storybook",
-          "Jest"
-        ],
-        "Mobile": [
-          "React Native"
-        ],
-        "Database": [
-          "MySQL",
-          "PostgreSQL",
-          "MongoDB",
-          "ElasticSearch",
-          "Oracle"
-        ],
-        "Serverless": [
-          "AWS Lambda",
-          "GCP Cloud Functions",
-          "Azure Functions",
-          "Heroku"
-        ],
-        "Dev Ops": [
-          "AWS",
-          "GCP",
-          "Git",
-          "GitHub",
-          "GitLab",
-          "Docker",
-          "Terraform",
-          "Kubernetes",
-        ],
-        "Cyber Security": [
-          "Censys",
-          "Shodan",
-          "Splunk",
-          "Maltego",
-          "Nessus",
-          "Nmap"
-        ],
-        "Operating Systems": [
-          "macOS",
-          "Linux"
-        ],
-        "Design": [
-          "Figma",
-          "Adobe XD"
-        ],
-        "Misc": [
-          "Firebase",
-          "Adobe Premiere Pro"
+        "speaking": [
+          "english",
+          "french",
+          "russian"
         ],
     },
-    "Stats": {
-        "Account Age": "6 years",
-        "Pushed": "3075 commits",
-        "Opened": "156 issues",
-        "Submitted": "531 pull requests",
-        "Received": "1046 stars",
-        "Own": "63 repositories",
-        "Contributed to": "37 public repositories",
+    "section4": {
+        "item4.1": "status4.1",
+        "item4.2": "status4.2",
+        "item4.3": "status4.3",
+        "item4.4": "status4.4"
     }
 }
 
 ```
-
 humint expert, osint researcher. i will find you.
 
 phantom rogue / necro cleric
