@@ -3,9 +3,10 @@
     "name": "omororri",
     "gridsquare": "dn35wu",
     "list1": ["item1", "item2", "item3"],
-    "Ask Me About": [
-        "Cyber Security",
-        "Open Source Development"
+    "headinglist": [
+        "headingitem1",
+        "headingitem2",
+        "headingitem3"
     ],
     "section2 classification": {
         "item1": "status1",
