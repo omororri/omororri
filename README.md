@@ -1,30 +1,22 @@
 ```json
 {
-    "name": "omororri",
-    "distribution": "debian12",
-    "gridsquare": "dn35wu",
-    "nuisance": ["humint expert", "osint compiler", "specialized non-us"],
-    "formatting": ["for desktop use only: get a laptop and tether your cell phone: poor"],
-    "repositories": [
-        "bookmark",
-        "config",
-        "legal",
-        "python",
-        "radio",
-        "textfile"
-    ],
-    "languages": {
-        "reading": [
-          "arabic",
-          "english",
-          "french",
-          "russian",
-          "spanish"
+    "demographics": {
+        "name": "omororri",
+        "distribution": "debian12",
+        "gridsquare": "dn35wu",
+        "nuisance": [
+            "humint expert",
+            "osint compiler",
+            "specialized non-us"
         ],
-        "speaking": [
-          "english",
-          "french",
-          "russian"
+        "formatting": "for desktop use only: get a laptop and tether your cell phone: poor",
+        "repositories": [
+            "bookmark",
+            "config",
+            "legal",
+            "python",
+            "radio",
+            "textfile"
         ],
     },
     "applications": {
@@ -40,6 +32,20 @@
         "text editor": "kate",
         "video player": "mpv",
         "word processor": "libreoffice writer"
+    },
+    "languages": {
+        "reading": [
+          "arabic",
+          "english",
+          "french",
+          "russian",
+          "spanish"
+        ],
+        "speaking": [
+          "english",
+          "french",
+          "russian"
+        ],
     },
     "in-game main": {
         "dungeons": "phantom rogue / death cleric",
