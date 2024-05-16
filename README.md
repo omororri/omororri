@@ -34,7 +34,7 @@
         "item5": "status5",
         "item6": "status6"
     },
-    "section4": {
+    "in-game main": {
         "dungeons": "phantom rogue / death cleric",
         "ffxiv": "reaper",
         "warcraft": "demonology warlock"
