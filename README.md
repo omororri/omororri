@@ -27,13 +27,19 @@
           "russian"
         ],
     },
-    "section2 classification": {
-        "item1": "status1",
-        "item2": "status2",
-        "item3": "status3",
-        "item4": "status4",
-        "item5": "status5",
-        "item6": "status6"
+    "applications": {
+        "bittorrent": "transmission",
+        "browser": "brave",
+        "graphical": "gimp",
+        "messenger": "discord",
+        "network scanner": "nmap",
+        "package manager": "nala",
+        "slideshow": "libreoffice impress",
+        "spreadsheet": "libreoffice calc",
+        "terminal": "alacritty",
+        "text editor": "kate",
+        "video player": "mpv",
+        "word processor": "libreoffice writer"
     },
     "in-game main": {
         "dungeons": "phantom rogue / death cleric",
