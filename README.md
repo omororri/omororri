@@ -47,6 +47,7 @@
             "french": "novice",
             "russian": "advanced",
             "spanish": "advanced"
+        ],
         "speaking": [
             "arabic": "intermediate",
             "english": "native",
