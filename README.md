@@ -3,12 +3,12 @@
     "demographics": {
         "login": "omororri",
         "distribution": "debian12",
+        "formatting": "for desktop use only: get a 17 inch laptop and tether your cell phone: poor",
         "nuisance": [
             "humint expert",
             "osint compiler",
             "specialized non-us"
         ],
-        "formatting": "for desktop use only: get a laptop and tether your cell phone: poor",
         "repositories": [
             "bookmark",
             "config",
