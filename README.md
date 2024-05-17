@@ -1,7 +1,7 @@
 ```json
 {
     "demographics": {
-        "name": "omororri",
+        "login": "omororri",
         "distribution": "debian12",
         "nuisance": [
             "humint expert",
