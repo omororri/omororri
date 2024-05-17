@@ -3,7 +3,6 @@
     "demographics": {
         "name": "omororri",
         "distribution": "debian12",
-        "gridsquare": "dn35wu",
         "nuisance": [
             "humint expert",
             "osint compiler",
