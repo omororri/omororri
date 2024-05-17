@@ -6,6 +6,7 @@
         "formatting": "for desktop use only: get a 17 inch laptop and tether your cell phone: poor",
         "nuisance": [
             "humint expert",
+            "polyglot",
             "osint compiler",
             "specialized non-us"
         ],
@@ -34,16 +35,24 @@
     },
     "languages": {
         "reading": [
-          "arabic",
-          "english",
-          "french",
-          "russian",
-          "spanish"
+          "arabic": "intermediate",
+          "english": "native",
+          "french": "novice",
+          "russian": "intermediate",
+          "spanish": "advanced"
         ],
+        "writing": [
+            "arabic": "intermediate",
+            "english": "native",
+            "french": "novice",
+            "russian": "advanced",
+            "spanish": "advanced"
         "speaking": [
-          "english",
-          "french",
-          "russian"
+            "arabic": "intermediate",
+            "english": "native",
+            "french": "novice",
+            "russian": "novice",
+            "spanish": "intermediate"
         ],
     },
     "in-game main": {
