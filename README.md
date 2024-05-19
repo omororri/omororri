@@ -60,7 +60,7 @@
         "dungeons": "phantom rogue / death cleric",
         "ffxiv": "reaper",
         "mtg": "karumonix, the rat king",
-        "warcraft": "demonology warlock"
+        "warcraft": "brewmaster monk"
     }
 }
 
