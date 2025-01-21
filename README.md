@@ -1,4 +1,4 @@
-omororri | endeavour os<br><br>
+omororri | endeavour os / kde plasma<br><br>
 browser: brave<br>
 chat: discord<br>
 dev.engine: godot<br>
@@ -13,4 +13,5 @@ steam: stardew valley<br>
 steam: terraria<br>
 office: libre office<br>
 terminal: alacritty<br>
+text.editor: kate<br>
 torrent: transmission
